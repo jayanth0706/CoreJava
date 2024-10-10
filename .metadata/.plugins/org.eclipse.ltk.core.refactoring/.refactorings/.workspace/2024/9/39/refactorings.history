@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename Java project &apos;App_Thread__4_staticSynchronization&apos; to &apos;App_Thread_4_staticSynchronization&apos;&#x0D;&#x0A;- Original element: &apos;App_Thread__4_staticSynchronization&apos;&#x0D;&#x0A;- Renamed element: &apos;App_Thread__4_staticSynchronization&apos;&#x0D;&#x0A;- Update references to refactored element" description="Rename Java project &apos;App_Thread__4_staticSynchronization&apos;" flags="7" id="org.eclipse.jdt.ui.rename.java.project" input="=App_Thread__4_staticSynchronization" name="App_Thread_4_staticSynchronization" references="true" stamp="1727114262255" version="1.0"/>
+</session>
